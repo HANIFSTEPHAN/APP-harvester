@@ -1,0 +1,5 @@
+customtkinter==5.2.1
+ping3==4.0.0
+python-nmap==0.7.1
+requests==2.31.0
+tkinter==0.1.0
