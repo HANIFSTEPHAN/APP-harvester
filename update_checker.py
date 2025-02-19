@@ -6,8 +6,8 @@ import sys
 class UpdateChecker:
     def __init__(self, current_version="1.1.0"):
         self.current_version = current_version
-        self.repo_url = "https://api.github.com/repos/your_username/your_repo/releases/latest"
-
+        self.repo_url = "https://api.github.com/repos/HANIFSTEPHAN/APP-harvester/releases/latest"
+    
     def check_for_updates(self):
         try:
             response = requests.get(self.repo_url)

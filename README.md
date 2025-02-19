@@ -8,4 +8,4 @@
 ## Installation
 1. Clonez le dépôt GitHub :
    ```bash
-   git clone https://github.com/votre_utilisateur/votre_repo.git
+   git clone https://github.com/HANIFSTEPHAN/APP-harvester.git
